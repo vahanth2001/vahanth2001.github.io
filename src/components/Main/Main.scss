@@ -1,0 +1,37 @@
+@import "../../globalColor";
+.App-Light{
+    display: flex;
+    flex-direction: row;
+    background-color: $lightBackground1;
+    color: $textColor;
+    transition: "0.1s";
+}
+.App-Dark{
+    display :flex;
+    flex-direction : row;
+    background-color:$darkBackground;
+    color: $textColorDark;
+    transition: "0.1s";
+}
+.App-Dark .Side-bar{
+    width: 20%; 
+    border-color:$lightBackground1;
+    border-style: solid;
+
+}
+.App-Light .Side-bar{
+    width: 20%; 
+    border-color:$darkBackground ;
+    border-style: solid;
+
+}
+.App-Dark .Main-Portfolio{
+    width:80%;
+    border-color:$lightBackground1;
+    border-style: solid;
+}
+.App-Light .Main-Portfolio{
+    width:80%;
+    border-color:$darkBackground ;
+    border-style: solid;
+}
