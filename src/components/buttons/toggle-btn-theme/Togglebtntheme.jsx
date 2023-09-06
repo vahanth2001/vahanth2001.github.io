@@ -11,7 +11,7 @@ function Togglebtntheme() {
     <label className="switch">
       <input type="checkbox"checked={isDark}onChange={() => {styleContext.changeTheme();setShow(!isShow)}}/>
       <span className="slider round">
-        <span className="emoji">{isShow ? emoji("🌜") : emoji("☀️")}</span>
+        <span className="emoji">{isShow ?  emoji("☀️") : emoji("🌜") }</span>
       </span>   
     </label>
   )
