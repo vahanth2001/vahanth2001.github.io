@@ -5,7 +5,7 @@ import StyleContext from '../../../contexts/StyleContext';
 
 function Togglebtntheme() {
   const {isDark} = useContext(StyleContext);
-  const [isShow,setShow]=useState(false)
+  const [isShow,setShow]=useState(true)
   const styleContext = useContext(StyleContext);
   return (
     <label className="switch">
