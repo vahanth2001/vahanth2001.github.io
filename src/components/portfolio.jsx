@@ -35,8 +35,8 @@ const greeting = {
 const socialMediaLinks = {
  github: "https://github.com/vahanth2001",
   linkedin: "https://www.linkedin.com/in/vahanth-guna-47868b1a5/",
-  gmail: "dheerajsaitiwari1110@gmail.com",
-  gitlab: "https://gitlab.com/Dheeraj-Tiwari",
+  gmail: "vahanthguna765992@gmail.com",
+  gitlab: "https://gitlab.com/Vahanth2001",
    facebook: "https://www.facebook.com/saad.pasta7",
   medium: "https://medium.com/@Dheeraj-Tiwari",
   // stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
