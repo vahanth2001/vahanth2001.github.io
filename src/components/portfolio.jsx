@@ -33,8 +33,8 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
- github: "https://github.com/Dheeraj-Tiwari",
-  linkedin: "https://www.linkedin.com/in/dheeraj-sai-tiwari/",
+ github: "https://github.com/vahanth2001",
+  linkedin: "https://www.linkedin.com/in/vahanth-guna-47868b1a5/",
   gmail: "dheerajsaitiwari1110@gmail.com",
   gitlab: "https://gitlab.com/Dheeraj-Tiwari",
    facebook: "https://www.facebook.com/saad.pasta7",
