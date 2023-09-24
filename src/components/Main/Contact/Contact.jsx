@@ -53,7 +53,7 @@ function Contact() {
           </div>
           <div className="contact-image-div">
             {illustration.animated ? (
-              <DisplayLottie animationData={email} />
+              <DisplayLottie path={email} />
             ) : (
               <img
                 alt="Man working"

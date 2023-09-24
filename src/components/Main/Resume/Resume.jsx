@@ -1,8 +1,15 @@
 import React from 'react'
-
+import Button from "../../buttons/Button"
+import { greeting} from "../../portfolio"
 function Resume() {
   return (
-    <div>Resume</div>
+    <div>{greeting.resumeLink && (
+      <Button
+            text="See my resume"
+            newTab={true}
+            href={greeting.resumeLink}
+          />
+        )}</div>
   )
 }
 

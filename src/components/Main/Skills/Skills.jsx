@@ -17,7 +17,7 @@ function Skills() {
         <Fade left duration={1000}>
           <div className="skills-image-div">
             {illustration.animated ? (
-              <DisplayLottie animationData={codingPerson} />
+              <DisplayLottie path={codingPerson} />
             ) : (
               <img
                 alt="Man Working"

@@ -13,6 +13,7 @@ import {StyleProvider} from '../../contexts/StyleContext'
 import {useLocalStorage} from './hooks/useLocalStorage'
 import SplashScreen from './splashScreen/SplashScreen'
 import { splashScreen } from '../portfolio'
+import Achievement from './Achivements/Achivements'
 
 function Main() {
   const darkPref = window.matchMedia("(prefers-color-scheme: dark)");
@@ -51,6 +52,7 @@ useEffect(() => {
             <About />
             <Workexpermice />
             <Projects />
+            <Achievement />
             <Resume />
             <Services />
             <Contact />

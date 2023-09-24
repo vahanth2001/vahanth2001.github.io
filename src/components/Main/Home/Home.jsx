@@ -10,7 +10,7 @@ import {illustration, greeting} from "../../portfolio"
 import StyleContext from "../../../contexts/StyleContext"
 
 function Home() {
-  const words =<Typewriter options={{strings: ["Designer", "Developer", "Freelancer"],autoStart: true,loop: true,}}/>
+  const words =<Typewriter options={{strings: ["I'm a Designer", "I'm a Developer", "I'm a Freelancer"],autoStart: true,loop: true,}}/>
   const {isDark} = useContext(StyleContext);
   if (!greeting.displayGreeting) {
     return null;
@@ -19,7 +19,7 @@ function Home() {
     <div>
       <div class="hero-container" data-aos="fade-in">
       <h1>Boinpally Vahanth Phalguna</h1>
-      <h5>I'm a {words}</h5>
+      <h5>{words}</h5>
     </div>
     <Fade bottom duration={1000} distance="40px">
       <div className="greet-main" id="greeting">
@@ -45,7 +45,7 @@ function Home() {
           </div>
         <div className="greeting-image-div">
                 {illustration.animated ? (
-                  <DisplayLottie animationData={landingPerson} />
+                  <DisplayLottie path={landingPerson} />
                 ) : (
                   <img
                     alt="man sitting on table"
