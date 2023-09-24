@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Developer And Designer🚀 having an experience of building Web applications, Games, Projects and More cool stuff😎"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1w3jcX_7IzUV-8aTsWu36dsV-uEYQ0zjX/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1THMArOFvzK6apy385Z8Gq27MAQAj1jLH/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
