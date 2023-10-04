@@ -27,7 +27,8 @@ const greeting = {
   ),
   resumeLink:
     "https://drive.google.com/file/d/1THMArOFvzK6apy385Z8Gq27MAQAj1jLH/view?usp=drive_link", // Set to empty to hide the button
-  displayGreeting: true // Set false to hide this section, defaults to true
+  displayGreeting: true ,
+  display: true// Set false to hide this section, defaults to true
 };
 
 // Social Media Links

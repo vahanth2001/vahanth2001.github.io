@@ -7,7 +7,6 @@ import {
   workExperiences,
   skillsSection,
   openSource,
-  blogSection,
   achievementSection
 } from "../../portfolio";
 function Header() {
@@ -16,7 +15,7 @@ function Header() {
   const viewOpenSource = openSource.display;
   const viewSkills = skillsSection.display;
   const viewAchievement = achievementSection.display;
-  const viewBlog = blogSection.display;
+  const viewGreetings = greeting.display;
   return(
     <Headroom>
     <div className={isDark ? "dark-menu header" : "header"}>
@@ -49,7 +48,7 @@ function Header() {
               <a href="#Home">Home</a>
             </li>
           )}
-          {viewSkills && (
+          {viewGreetings && (
             <li>
               <a href="#About">About</a>
             </li>
@@ -74,12 +73,7 @@ function Header() {
               <a href="#achievements">Achievements</a>
             </li>
           )}
-          {viewBlog && (
-            <li>
-              <a href="#Services">Services</a>
-            </li>
-          )}
-          <li>
+         <li>
             <a href="#contact">Contacts</a>
           </li>
         </ul>
