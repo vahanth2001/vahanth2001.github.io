@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5a03713.css",
+    "main.js": "/static/js/main.d580692c.js",
+    "static/js/453.fee0ac6f.chunk.js": "/static/js/453.fee0ac6f.chunk.js",
+    "static/media/sbtetLogo.png": "/static/media/sbtetLogo.93940f497f4719e72ad0.png",
+    "static/media/jntuhLogo.png": "/static/media/jntuhLogo.ee84accc39be6d267178.png",
+    "static/media/fiverr.png": "/static/media/fiverr.ea5f73170c39c523dc9c.png",
+    "static/media/upworkLogo.png": "/static/media/upworkLogo.b1a90130a5795f4b7829.png",
+    "static/media/Web-Development-Projects.jpg": "/static/media/Web-Development-Projects.a9c9b5c4041dfa718c3e.jpg",
+    "static/media/deloitte-logo.gif": "/static/media/deloitte-logo.28bef2ad1bda9906490d.gif",
+    "static/media/freecodecamp.jpg": "/static/media/freecodecamp.10117c89148ba8040747.jpg",
+    "static/media/Fake-News-Detection-using-Machine-Learning.jpg": "/static/media/Fake-News-Detection-using-Machine-Learning.b4ca2c88816e30dd456f.jpg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "index.html": "/index.html",
+    "main.d5a03713.css.map": "/static/css/main.d5a03713.css.map",
+    "main.d580692c.js.map": "/static/js/main.d580692c.js.map",
+    "453.fee0ac6f.chunk.js.map": "/static/js/453.fee0ac6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5a03713.css",
+    "static/js/main.d580692c.js"
+  ]
+}
