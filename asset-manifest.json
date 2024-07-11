@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d5a03713.css",
-    "main.js": "/static/js/main.d580692c.js",
+    "main.js": "/static/js/main.682d9a7f.js",
     "static/js/453.fee0ac6f.chunk.js": "/static/js/453.fee0ac6f.chunk.js",
     "static/media/sbtetLogo.png": "/static/media/sbtetLogo.93940f497f4719e72ad0.png",
     "static/media/jntuhLogo.png": "/static/media/jntuhLogo.ee84accc39be6d267178.png",
@@ -15,11 +15,11 @@
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "index.html": "/index.html",
     "main.d5a03713.css.map": "/static/css/main.d5a03713.css.map",
-    "main.d580692c.js.map": "/static/js/main.d580692c.js.map",
+    "main.682d9a7f.js.map": "/static/js/main.682d9a7f.js.map",
     "453.fee0ac6f.chunk.js.map": "/static/js/453.fee0ac6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5a03713.css",
-    "static/js/main.d580692c.js"
+    "static/js/main.682d9a7f.js"
   ]
 }
